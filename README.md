@@ -1,4 +1,4 @@
-# <div align="center">Projeto MiniBlog com React.js e firebase</div>
+# <div align="center">Projeto MiniBlog com React.js e Firebase</div>
 
 
 > **TOPIC:** MINIBLOG
