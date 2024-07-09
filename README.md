@@ -1,5 +1,5 @@
 
-# <div align="center">Projeto MiniBlog com React.js e Firebase</div>
+# MiniBlog
 
 ## Descrição do Projeto
 
